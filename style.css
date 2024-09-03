@@ -172,3 +172,16 @@ hr{
     align-items: center;
     gap: 7px;
 }
+
+.header__navbar a{
+    color: gray;
+}
+
+.active a{
+    color: #EF400F;
+}
+
+
+.header__navbar a{
+    gap: 20px;
+}
